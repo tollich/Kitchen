@@ -4,6 +4,4 @@ Net Programming - Laboratory №1
 
 Kitchen
 ---------
-* Two web-servers
-* Connection between then 
-* Restaurant Cooks
+
