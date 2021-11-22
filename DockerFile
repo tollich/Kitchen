@@ -6,4 +6,4 @@ ADD kitchen.py .
 
 RUN pip install requests flask
 
-EXPOSE 80CMD ["python","-u","kitchen.py" ]
+EXPOSE 8080CMD ["python","-u","kitchen.py" ]
